@@ -108,8 +108,6 @@ def changing_alan
       programmer_hash
   end
      #change what Alan Kay is :known_for to the value of the alans_new_info variable. 
-  
-    
 
 
 def adding_to_dennis
